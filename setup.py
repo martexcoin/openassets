@@ -15,7 +15,7 @@ setuptools.setup(
     description = 'Reference implementation of the Open Assets Protocol',
     author = 'Flavien Charlon',
     author_email = 'flavien@charlon.net',
-    url = 'https://github.com/OpenAssets/openassets',
+    url = 'https://github.com/martexcoin/openassets',
     license = 'MIT License',
     install_requires = [
     ],
